@@ -39,7 +39,7 @@ const FloatingShapes = () => {
 };
 
 const Particles = () => {
-  const ref = useRef<any>();
+  const ref = useRef<any>(null);
   const sphere = useMemo(() => {
     const points = new Float32Array(2000 * 3);
     for (let i = 0; i < 2000; i++) {

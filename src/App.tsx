@@ -46,7 +46,6 @@ export default function App() {
       
       <main>
         <AnimatePresence mode="wait">
-          {/* @ts-expect-error key is necessary for AnimatePresence */}
           <Routes location={location} key={location.pathname}>
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
