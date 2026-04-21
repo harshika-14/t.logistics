@@ -1,20 +1,70 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🚚 Premium Logistics Website (Targo Style)
 
-# Run and deploy your AI Studio app
+A modern, high-end logistics website built using **React** and **Tailwind CSS**, designed with a cinematic dark theme and immersive user experience.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/c40abd93-fb12-4b4c-a68c-eb50fd6fd1c9
+## ✨ Features
 
-## Run Locally
+* 🎥 Cinematic video background (auto-play, loop, muted)
+* 🎨 Premium dark UI (Black + Red + White theme)
+* 🔺 Custom clipped-corner buttons using CSS clip-path
+* 🧊 Advanced glassmorphism (blur + saturation + gradient shine)
+* 📱 Fully responsive (mobile, tablet, desktop)
+* ⚡ Smooth animations and transitions
+* 🧩 Reusable component-based architecture
 
-**Prerequisites:**  Node.js
+---
 
+## 🛠️ Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+* React.js
+* Tailwind CSS
+* Lucide React Icons
+* Modern CSS (clip-path, backdrop-filter)
+
+---
+
+## 📌 Sections Included
+
+* Hero Section (Video Background)
+* About Section
+* Services Section
+* Process Flow
+* Feature Highlights
+* Call To Action
+* Footer
+
+---
+
+## 🎯 Purpose
+
+This project demonstrates how to build a **premium, modern business website** using AI-assisted design and clean frontend development.
+It can be reused and customized for different industries like logistics, startups, agencies, or local businesses.
+
+---
+
+## 🚀 Getting Started
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+## 📷 Preview
+
+A cinematic logistics experience with modern UI and smooth interactions.
+
+---
+
+## 💡 Author
+
+Designed and developed by **Harshika Bighane**
+
+---
+
+## 📄 License
+
+This project is open-source and available for learning and customization.
