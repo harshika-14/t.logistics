@@ -114,7 +114,7 @@ export default function Home() {
           </div>
           <div className="flex-1 w-full lg:w-auto overflow-hidden rounded-2xl aspect-video bg-white/5 border border-white/5 group relative">
             <div className="absolute inset-0 bg-gradient-to-t from-black to-transparent opacity-60 z-10" />
-            <img src="https://picsum.photos/seed/logistics/1200/800" alt="Logistics background" className="w-full h-full object-cover grayscale opacity-40 group-hover:scale-110 group-hover:grayscale-0 transition-all duration-700" referrerPolicy="no-referrer" />
+            <img src="/home-img.jpg" alt="Logistics background" className="w-full h-full object-cover grayscale opacity-40 group-hover:scale-110 group-hover:grayscale-0 transition-all duration-700" referrerPolicy="no-referrer" />
             <div className="absolute inset-0 z-20 flex items-center justify-center">
                 <div className="w-20 h-20 rounded-full bg-brand-red flex items-center justify-center cursor-pointer hover:scale-110 transition-transform shadow-[0_0_30px_#EE3F2C]">
                   <ArrowRight className="w-8 h-8 text-white" />

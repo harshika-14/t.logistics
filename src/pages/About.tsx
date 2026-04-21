@@ -87,7 +87,7 @@ export default function About() {
             </div>
             <div className="flex-1 order-1 lg:order-2 w-full">
               <img 
-                src="https://picsum.photos/seed/truck/1000/600" 
+                src="/about-img.jpg" 
                 alt="Logistics Fleet" 
                 className="rounded-2xl border border-white/10 grayscale hover:grayscale-0 transition-all duration-700 w-full object-cover"
               />
