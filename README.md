@@ -1,58 +1,68 @@
-# 🚚 Premium Logistics Website (Targo Style)
+# 🚚 Targo-Style Premium Logistics Website
 
-A modern, high-end logistics website built using **React** and **Tailwind CSS**, designed with a cinematic dark theme and immersive user experience.
+A high-performance, modern logistics website built using **React** and **Tailwind CSS**, featuring a cinematic UI, scalable component architecture, and a refined dark design system.
+
+This project focuses on delivering a **production-ready frontend experience** with strong visual hierarchy, smooth interactions, and reusable UI components.
 
 ---
 
 ## 🌐 Live Demo
 
-👉 https://t-logistics-navy.vercel.app/
+🚀 [View Live Website](https://t-logistics-navy.vercel.app/)
 
 ---
 
-## ✨ Features
+## ✨ Key Features
 
-* 🎥 Cinematic video background (auto-play, loop, muted)
-* 🎨 Premium dark UI (Black + Red + White theme)
-* 🔺 Custom clipped-corner buttons using CSS clip-path
-* 🧊 Advanced glassmorphism (blur + saturation + gradient shine)
-* 📱 Fully responsive (mobile, tablet, desktop)
-* ⚡ Smooth animations and transitions
-* 🧩 Reusable component-based architecture
+* Cinematic hero section with **auto-playing video background**
+* Clean and minimal **dark UI design system (Black + Red + White)**
+* Custom **geometric clipped buttons** using CSS `clip-path`
+* Advanced **glassmorphism effects** (blur, saturation, layered depth)
+* Fully **responsive layout** across all screen sizes
+* Smooth **micro-interactions and transitions**
+* Modular and **reusable component-based architecture**
 
 ---
 
 ## 🛠️ Tech Stack
 
-* React.js
-* Tailwind CSS
-* Lucide React Icons
-* Modern CSS (clip-path, backdrop-filter)
+* **Frontend:** React.js
+* **Styling:** Tailwind CSS
+* **Icons:** Lucide React
+* **CSS Techniques:** clip-path, backdrop-filter, modern layout utilities
 
 ---
 
-## 📌 Sections Included
+## 📐 Architecture & Sections
 
 * Hero Section (Video Background)
 * About Section
 * Services Section
-* Process Flow
+* Process Workflow
 * Feature Highlights
 * Call To Action
 * Footer
 
+The project follows a **component-driven structure**, making it easy to scale and adapt for different business use cases.
+
 ---
 
-## 🎯 Purpose
+## 🎯 Objective
 
-This project demonstrates how to build a **premium, modern business website** using AI-assisted design and clean frontend development.
-It can be reused and customized for different industries like logistics, startups, agencies, or local businesses.
+The goal of this project is to demonstrate how to build a **premium, business-ready website** using modern frontend technologies and AI-assisted design workflows.
+
+It can be adapted for:
+
+* Logistics & Transportation
+* Startups & SaaS
+* Agencies & Freelancers
+* Local Businesses
 
 ---
 
 ## 🚀 Getting Started
 
-```bash
+```bash id="kz9v1x"
 npm install
 npm run dev
 ```
@@ -61,16 +71,17 @@ npm run dev
 
 ## 📷 Preview
 
-A cinematic logistics experience with modern UI and smooth interactions.
+A cinematic, immersive interface designed to enhance user engagement and brand perception.
 
 ---
 
-## 💡 Author
+## 👩‍💻 Author
 
-Designed and developed by **Harshika Bighane**
+**Harshika Bighane**
+Web Developer | UI/UX Enthusiast
 
 ---
 
 ## 📄 License
 
-This project is open-source and available for learning and customization.
+This project is open-source and available for learning, customization, and commercial adaptation.
