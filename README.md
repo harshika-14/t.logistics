@@ -4,13 +4,13 @@ A high-performance, modern logistics website built using **React** and **Tailwin
 
 This project focuses on delivering a **production-ready frontend experience** with strong visual hierarchy, smooth interactions, and reusable UI components.
 
----
+
 
 ## 🌐 Live Demo
 
 🚀 [View Live Website](https://t-logistics-navy.vercel.app/)
 
----
+
 
 ## ✨ Key Features
 
@@ -31,8 +31,6 @@ This project focuses on delivering a **production-ready frontend experience** wi
 * **Icons:** Lucide React
 * **CSS Techniques:** clip-path, backdrop-filter, modern layout utilities
 
----
-
 ## 📐 Architecture & Sections
 
 * Hero Section (Video Background)
@@ -45,7 +43,6 @@ This project focuses on delivering a **production-ready frontend experience** wi
 
 The project follows a **component-driven structure**, making it easy to scale and adapt for different business use cases.
 
----
 
 ## 🎯 Objective
 
@@ -58,7 +55,7 @@ It can be adapted for:
 * Agencies & Freelancers
 * Local Businesses
 
----
+
 
 ## 🚀 Getting Started
 
@@ -67,20 +64,19 @@ npm install
 npm run dev
 ```
 
----
 
 ## 📷 Preview
 
 A cinematic, immersive interface designed to enhance user engagement and brand perception.
 
----
+
 
 ## 👩‍💻 Author
 
 **Harshika Bighane**
 Web Developer | UI/UX Enthusiast
 
----
+
 
 ## 📄 License
 
